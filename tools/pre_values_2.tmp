@@ -1,0 +1,5 @@
+    }
+    
+    subgraph cluster_2 {
+        color=white;
+	node [style=solid,color=seagreen2, shape=circle];
